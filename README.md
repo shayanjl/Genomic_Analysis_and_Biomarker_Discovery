@@ -1,5 +1,3 @@
-# Genomic Analysis and Biomarker Discovery
-
 An R-based collection of reproducible workflows for cancer transcriptomic analysis, differential-expression testing, biomarker prioritisation, functional enrichment, and biological interpretation.
 
 The repository currently includes workflows for:
